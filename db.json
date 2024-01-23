@@ -1,11 +1,25 @@
 {
   "clientes": [
     {
-      "nombre": "Juan NUEVO!",
-      "email": "correo2@correo.com",
-      "telefono": "12",
-      "empresa": "12212",
-      "id": 26
+      "id": "3f8e",
+      "nombre": "Joel Palacio",
+      "email": "joelpalacioCano@gmail.com",
+      "telefono": "123456789",
+      "empresa": "Megacable"
+    },
+    {
+      "id": "3865",
+      "nombre": "joel",
+      "email": "joel@mega.com",
+      "telefono": "3339980089",
+      "empresa": "mega"
+    },
+    {
+      "id": "18f6",
+      "nombre": "Joel Palacio",
+      "email": "joel@correo.com",
+      "telefono": "3339980089",
+      "empresa": "megacable"
     }
   ]
 }
